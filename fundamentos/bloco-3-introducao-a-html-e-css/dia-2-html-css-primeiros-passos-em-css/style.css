@@ -1,0 +1,16 @@
+body{
+    font-size: 16px;
+  }
+    h1{
+        width: 65px;
+        color: rgb(170, 37, 137);
+        font-family: sans-serif;
+    }
+
+    ul {
+        background-color: burlywood;
+    }
+
+    p {
+      font-weight: 600;
+    }
