@@ -46,9 +46,10 @@ const employeesGenerate = (fullName) => {
         //comparacao as arrays
     }
 
-       const result = (rightAnswers,studentAnswers, comparation) => {
+    const result = (rightAnswers,studentAnswers, comparation) => {
 
-        //resultado
+    //resultado
+    // mudar nomes de parametros
 
     }
 
